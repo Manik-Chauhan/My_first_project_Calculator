@@ -1,0 +1,57 @@
+html{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+}
+
+header{
+	text-align: center;
+	color:  red;
+	font-size: 300%;
+	font-weight: bold;
+	font-family: Impactcharcoal ,sanssenif;
+    border: 10px red solid; 
+}
+
+body{
+	background-image: url(abc.jpg);
+	background-size: 1380px,1000px;
+}
+div{
+	text-align: center;
+	border: 10px red solid;
+	font-color:red;
+}
+input{
+	margin:auto;
+	width: 19%;
+	font-size: 350%;
+	color: white;
+	background-color: rgba(42,50,113, .28);
+	
+}
+footer{
+	color: red;
+}
+#equal{
+	width: 98.5%;
+	color: white;
+
+}
+#clearMem{
+	color: white;
+	width: 68.55%;
+}
+
+#display{
+	width: 98.5%;
+    color: white;
+    text-align: center;
+    background-color: rgba(42,50,113, .28);
+}
+
+#c{
+	width: 30%;
+	color: white;
+}
