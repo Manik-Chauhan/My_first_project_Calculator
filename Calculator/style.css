@@ -21,7 +21,7 @@ body{
 div{
 	text-align: center;
 	border: 10px red solid;
-	font-color:red;
+	color:red;
 }
 input{
 	margin:auto;
